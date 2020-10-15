@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.exe
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.deps.json
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.runtimeconfig.json
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.runtimeconfig.dev.json
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.dll
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\bin\Debug\netcoreapp3.1\lab_4_powers_table.pdb
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.AssemblyInfo.cs
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.dll
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.pdb
+C:\Users\harre\source\repos\lab_4_powers_table\lab_4_powers_table\obj\Debug\netcoreapp3.1\lab_4_powers_table.genruntimeconfig.cache
